@@ -1,8 +1,6 @@
 import BGGradient from "@/components/common/bg-gradient";
-import { Button } from "@/components/ui/button";
 import UploadForm from "@/components/Upload/UploadForm";
-import { ArrowRight, Sparkle } from "lucide-react";
-import Link from "next/link";
+import { Sparkle } from "lucide-react";
 import React from "react";
 
 export default function UploadPage() {

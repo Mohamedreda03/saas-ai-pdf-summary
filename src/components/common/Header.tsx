@@ -1,11 +1,9 @@
 import { FileText } from "lucide-react";
-import Link from "next/link";
 import React from "react";
 import NavLink from "./nav-link";
 import { SignedIn, SignedOut } from "@clerk/nextjs";
 
 export default function Header() {
-  const isLoggedIn = false;
   return (
     <nav className="container flex items-center justify-between py-4 px-2 lg:px-8 mx-auto">
       <div className="flex lg:flex-1">

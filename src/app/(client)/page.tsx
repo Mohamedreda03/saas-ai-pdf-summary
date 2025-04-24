@@ -1,4 +1,3 @@
-import Link from "next/link";
 import HeroSection from "@/components/home/hero-section";
 import DemoSection from "@/components/home/demo-section";
 import BGGradient from "@/components/common/bg-gradient";

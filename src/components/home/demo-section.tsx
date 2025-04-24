@@ -1,5 +1,4 @@
 import React from "react";
-import BGGradient from "../common/bg-gradient";
 import { Pizza } from "lucide-react";
 
 export default function DemoSection() {
